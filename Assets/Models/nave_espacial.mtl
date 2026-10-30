@@ -1,0 +1,28 @@
+# Materiais da nave
+newmtl Casco
+Ka 0.12 0.16 0.22
+Kd 0.38 0.52 0.66
+Ks 0.65 0.75 0.85
+Ns 80
+map_Kd nave_textura.png
+
+newmtl Vidro
+Ka 0.02 0.08 0.12
+Kd 0.05 0.35 0.52
+Ks 0.9 0.95 1.0
+Ns 180
+d 0.82
+illum 4
+
+newmtl Motor
+Ka 0.1 0.04 0.0
+Kd 1.0 0.28 0.04
+Ke 1.0 0.18 0.02
+Ks 0.5 0.3 0.1
+Ns 40
+
+newmtl Escuro
+Ka 0.03 0.04 0.05
+Kd 0.08 0.1 0.13
+Ks 0.22 0.25 0.3
+Ns 35
